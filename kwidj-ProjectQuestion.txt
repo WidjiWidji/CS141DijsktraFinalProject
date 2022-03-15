@@ -1,0 +1,4 @@
+What data structure was used to check for the next vertex to visit.
+a. priority_queue
+b. map
+c. queue
